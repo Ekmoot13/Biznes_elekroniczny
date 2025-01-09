@@ -1,0 +1,46 @@
+version: '2'
+services:
+  mariadb:
+    image: mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD=admin
+      - MYSQL_DATABASE=prestashop
+      - MYSQL_USER=prestashop
+      - MYSQL_PASSWORD=prestashop
+    volumes:
+      - ./mysql:/var/lib/mysql
+    expose:
+      - 3306
+    networks:
+      - shop-network
+    restart: always
+  prestashop:
+    image: prestashop/prestashop:1.7.8
+    ports:
+      - 8090:80
+    depends_on:
+      - mariadb
+    volumes:
+      - ./prestadata:/var/www/html
+      - ./prestadata/modules:/var/www/html/modules
+      - ./prestadata/themes:/var/www/html/themes
+      - ./prestadata/override:/var/www/html/override
+    environment:
+      - PS_INSTALL_AUTO=0
+    networks:
+      - shop-network
+    restart: always
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    environment:
+      - PMA_HOST=mariadb  # Сервис базы данных, который phpMyAdmin должен использовать
+      - MYSQL_ROOT_PASSWORD=admin  # Должен соответствовать паролю root, указанному для MySQL
+    ports:
+      - 8081:80  # phpMyAdmin будет доступен на порту 8081
+    depends_on:
+      - mariadb
+    networks:
+      - shop-network
+    restart: always
+networks:
+  shop-network:
