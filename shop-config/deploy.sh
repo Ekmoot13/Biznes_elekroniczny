@@ -1,6 +1,6 @@
-IMAGE_NAME="wallys02/presta-forfiter:latest"
-COMPOSE_URL="https://raw.githubusercontent.com/WallyS02/Presta-Forfiter/master/shop-config/docker-compose-prod.yml"
-STACK_NAME="BE_188586"
+IMAGE_NAME="ekmoot13/worsted:latest"
+COMPOSE_URL="https://raw.githubusercontent.com/Ekmoot13/Biznes_elekroniczny/TESTS/docker-compose.yml"
+STACK_NAME="BE_188893"
 
 docker pull $IMAGE_NAME
 
