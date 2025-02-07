@@ -1,0 +1,62 @@
+version: "3.9" # Zdefiniowana wersja dla kompatybilności z nowymi wersjami Docker Compose
+
+services:
+  prestashop:
+    image: 
+    user: root
+    container_name: BE_188893_prestashop
+    restart: unless-stopped
+    depends_on:
+      - memcached
+    ports:
+      - "18889:443" # Mapowanie portów host:kontener
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 2
+        window: 70s
+      resources:
+        limits:
+          cpus: "0.5" # Przydział CPU
+          memory: 512M # Przydział RAM
+    environment: # Zmienne środowiskowe
+      PS_DEV_MODE: "1"
+      DB_SERVER: db
+      DB_NAME: BE_188893
+      DB_USER: root
+      DB_PASSWD: student
+      PS_INSTALL_AUTO: "1"
+      PS_DOMAIN: localhost:18889
+      PS_LANGUAGE: pl
+      PS_COUNTRY: PL
+      ADMIN_MAIL: admin@presta.com
+      ADMIN_PASSWD: admin
+      PS_FOLDER_ADMIN: admin4577
+      PS_FOLDER_INSTALL: install4577
+      PS_DOMAIN_SSL: ${PS_DOMAIN_SSL:-localhost:18889}
+      PS_ENABLE_SSL: "1"
+      PS_SSL_ENABLED_EVERYWHERE: "1"
+    networks:
+      - admin-mysql_default
+
+  memcached:
+    image: memcached
+    container_name: BE_188893_memcached
+    user: "1000:1000"
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 2
+        window: 140s
+      resources:
+        limits:
+          cpus: "0.5"
+          memory: 256M
+    networks:
+      - admin-mysql_default
+
+networks:
+  admin-mysql_default:
+    external: true

@@ -1,0 +1,827 @@
+Product ID;Name;Kategoria;Cena netto;Cena brutto;Ilość;Kategoria nadrzędna
+1;Włóczka DROPS Air 01 - ecru;101;16.99;20.9;10;564
+2;Włóczka DROPS Air mix 02 - pszeniczny;101;16.99;20.9;10;564
+3;Włóczka DROPS Air mix 40 - lemoniada;101;16.99;20.9;10;564
+4;Włóczka DROPS Air 22 - żółty;101;16.99;20.9;10;564
+5;Włóczka DROPS Air mix 13 - pomarańczowy;101;16.99;20.9;10;564
+6;Włóczka DROPS Air mix 38 - elektryzujący pomarańcz;101;16.99;20.9;10;564
+7;Włóczka DROPS Air 54 - słodka morela;101;16.99;20.9;10;564
+8;Włóczka DROPS Air 50 - brzoskwiniowy róż;101;16.99;20.9;10;564
+9;Włóczka DROPS Air mix 07 - rubinowy;101;16.99;20.9;10;564
+10;Włóczka DROPS Air 35 - glina;101;16.99;20.9;10;564
+11;Włóczka DROPS Air 44 - karminowy;101;16.99;20.9;10;564
+12;Włóczka DROPS Air mix 39 - magenta;101;16.99;20.9;10;564
+13;Włóczka DROPS Air 24 - średni róż;101;16.99;20.9;10;564
+14;Włóczka DROPS Air 53 - lody truskawkowe;101;16.99;20.9;10;564
+15;Włóczka DROPS Air mix 08 - jasny róż;101;16.99;20.9;10;564
+16;Włóczka DROPS Alaska 69 - perłowa biel;102;6.91;8.5;10;564
+17;Włóczka DROPS Alaska 02 - ecru;102;6.91;8.5;10;564
+18;Włóczka DROPS Alaska 61 - pszeniczny;102;6.91;8.5;10;564
+19;Włóczka DROPS Alaska mix 73 - piaskowy;102;6.91;8.5;10;564
+20;Włóczka DROPS Alaska 58 - musztarda;102;6.91;8.5;10;564
+21;Włóczka DROPS Alaska 10 - czerwony;102;6.91;8.5;10;564
+22;Włóczka DROPS Alaska 11 - ciemnoczerwony;102;6.91;8.5;10;564
+23;Włóczka DROPS Alaska mix 40 - lawendowy róż;102;6.91;8.5;10;564
+24;Włóczka DROPS Alaska mix 62 - mgła;102;6.91;8.5;10;564
+25;Włóczka DROPS Alaska mix 63 - perłowy szary;102;6.91;8.5;10;564
+26;Włóczka DROPS Alaska 57 - dżins;102;6.91;8.5;10;564
+27;Włóczka DROPS Alaska 37 - ciemnoniebieski;102;6.91;8.5;10;564
+28;Włóczka DROPS Alaska mix 12 - niebieski morski;102;6.91;8.5;10;564
+29;Włóczka DROPS Alaska 15 - kobalt;102;6.91;8.5;10;564
+30;Włóczka DROPS Alaska mix 64 - morze północne;102;6.91;8.5;10;564
+31;Włóczka DROPS Alpaca 101 - biały;103;11.87;14.6;10;564
+32;Włóczka DROPS Alpaca 100 - ecru;103;11.87;14.6;10;564
+33;Włóczka DROPS Alpaca 9036 - pszeniczny;103;11.87;14.6;10;564
+34;Włóczka DROPS Alpaca 2923 - złoty żółty;103;11.87;14.6;10;564
+35;Włóczka DROPS Alpaca 2915 -przykurzony pomarańcz;103;11.87;14.6;10;564
+36;Włóczka DROPS Alpaca mix 2925 - rdza;103;12.44;15.3;10;564
+37;Włóczka DROPS Alpaca 3620 - czerwony;103;11.87;14.6;10;564
+38;Włóczka DROPS Alpaca mix 5565 - bordowo-brązowy;103;12.44;15.3;10;564
+39;Włóczka DROPS Alpaca mix 3650 - bordowy;103;12.44;15.3;10;564
+40;Włóczka DROPS Alpaca 3770 - malinowy róż;103;11.87;14.6;10;564
+41;Włóczka DROPS Alpaca  mix 9024 - ciemny blush;103;12.44;15.3;10;564
+42;Włóczka DROPS Alpaca  mix 9026 - blush;103;12.44;15.3;10;564
+43;Włóczka DROPS Alpaca 3720 - średni róż;103;11.87;14.6;10;564
+44;Włóczka DROPS Alpaca 9034 - płatek róży;103;11.87;14.6;10;564
+45;Włóczka DROPS Alpaca 9033 - lody truskawkowe;103;11.87;14.6;10;564
+46;Włóczka DROPS  Alpaca Bouclé 0100 - ecru;103;12.44;15.3;10;564
+47;Włóczka DROPS Alpaca Bouclé mix 0602 - brąz;103;12.44;15.3;10;564
+48;Włóczka DROPS Alpaca Bouclé  mix 2020 - jasny beż;103;12.44;15.3;10;564
+49;Włóczka DROPS Alpaca Bouclé mix 5110 - jasny szary;103;12.44;15.3;10;564
+50;Włóczka DROPS Alpaca Bouclé mix 0517 - szary;103;12.44;15.3;10;564
+51;Włóczka DROPS  Alpaca Bouclé 8903 - czarny;103;12.44;15.3;10;564
+52;Włóczka DROPS Andes 1101 - biały;104;16.67;20.5;10;564
+53;Włóczka DROPS Andes 9022 - wapień;104;16.67;20.5;10;564
+54;Włóczka DROPS Andes 0100 - ecru;104;16.67;20.5;10;564
+55;Włóczka DROPS Andes mix 2920 - pomarańczowy;104;17.89;22.0;10;564
+56;Włóczka DROPS Andes 3946 - czerwony;104;16.67;20.5;10;564
+57;Włóczka DROPS Andes mix 4276 - bladoróżowy;104;17.89;22.0;10;564
+58;Włóczka DROPS Andes 3145 - pudrowy róż;104;16.67;20.5;10;564
+59;Włóczka DROPS Andes mix 9025 - różowy piasek;104;17.89;22.0;10;564
+60;Włóczka DROPS Andes 8112 - błękitny stalowy;104;16.67;20.5;10;564
+61;Włóczka DROPS Andes 6928 - niebieski;104;16.67;20.5;10;564
+62;Włóczka DROPS Andes mix 6343 - ciemnoniebieski;104;17.89;22.0;10;564
+63;Włóczka DROPS Andes 6990 - granatowy;104;16.67;20.5;10;564
+64;Włóczka DROPS Andes mix 9023 - jasna morska zieleń;104;17.89;22.0;10;564
+65;Włóczka DROPS Andes mix 7130 - zieleń oceanu;104;17.89;22.0;10;564
+66;Włóczka DROPS Andes mix 9028 - nugat;104;17.89;22.0;10;564
+67;Włóczka DROPS Baby Merino 01 - biały;105;12.2;15.0;10;564
+68;Włóczka DROPS Baby Merino 02 - ecru;105;12.2;15.0;10;564
+69;Włóczka DROPS Baby Merino 44 - pudrowy;105;12.2;15.0;10;564
+70;Włóczka DROPS Baby Merino 59 - pszeniczny;105;12.2;15.0;10;564
+71;Włóczka DROPS Baby Merino 03 - jasny żółty;105;12.2;15.0;10;564
+72;Włóczka DROPS Baby Merino 04 - żółty;105;12.2;15.0;10;564
+73;Włóczka DROPS Baby Merino 45 - cytrynowy;105;12.2;15.0;10;564
+74;Włóczka DROPS Baby Merino 56 - mandarynka;105;12.2;15.0;10;564
+75;Włóczka DROPS Baby Merino 36 - pomarańczowy;105;12.2;15.0;10;564
+76;Włóczka DROPS Baby Merino 16 - czerwony;105;12.2;15.0;10;564
+77;Włóczka DROPS Baby Merino 51 - bordowy;105;12.2;15.0;10;564
+78;Włóczka DROPS Baby Merino 08 - fuksja;105;12.2;15.0;10;564
+79;Włóczka DROPS Baby Merino 48 - blush;105;12.2;15.0;10;564
+80;Włóczka DROPS Baby Merino 07 - różowy;105;12.2;15.0;10;564
+81;Włóczka DROPS Baby Merino 05 - jasny róż;105;12.2;15.0;10;564
+82;Włóczka DROPS Belle 01 - biały;106;7.15;8.8;10;564
+83;Włóczka DROPS Belle 26 - perłowy;106;7.15;8.8;10;564
+84;Włóczka DROPS Belle 02 - ecru;106;7.15;8.8;10;564
+85;Włóczka DROPS Belle 22 - woda różana;106;7.15;8.8;10;564
+86;Włóczka DROPS Belle 23 - krem miętowy;106;7.15;8.8;10;564
+87;Włóczka DROPS Belle 04 - narcyz;106;7.15;8.8;10;564
+88;Włóczka DROPS Belle 12 - cherry;106;7.15;8.8;10;564
+89;Włóczka DROPS Belle 21 - róża migdałowa;106;7.15;8.8;10;564
+90;Włóczka DROPS Belle 16 - malwa;106;7.15;8.8;10;564
+91;Włóczka DROPS Belle 11 - stary róż;106;7.15;8.8;10;564
+92;Włóczka DROPS Belle 15 - dżins;106;7.15;8.8;10;564
+93;Włóczka DROPS Belle 13 - ciemny dżins;106;7.15;8.8;10;564
+94;Włóczka DROPS Belle 20 - granatowy;106;7.15;8.8;10;564
+95;Włóczka DROPS Belle 17 - petrol;106;7.15;8.8;10;564
+96;Włóczka DROPS Belle 10 - zielony mech;106;7.15;8.8;10;564
+97;Włóczka DROPS Big Merino 01 - ecru;107;12.2;15.0;10;564
+98;Włóczka DROPS Big Merino 26 - lemoniada;107;12.2;15.0;10;564
+99;Włóczka DROPS Big Merino mix  09 - lawenda;107;12.2;15.0;10;564
+100;Włóczka DROPS Big Merino mix 23 - stalowy błękit;107;12.2;15.0;10;564
+101;Włóczka DROPS Big Merino 07 - dżins;107;12.2;15.0;10;564
+102;Włóczka DROPS Big Merino mix 06 - niezapominajka;107;12.2;15.0;10;564
+103;Włóczka DROPS Big Merino 17 - granatowy;107;12.2;15.0;10;564
+104;Włóczka DROPS Big Merino 25 - lody pistacjowe;107;12.2;15.0;10;564
+105;Włóczka DROPS Big Merino 14 - zielony leśny;107;12.2;15.0;10;564
+106;Włóczka DROPS Big Merino 05 - mokka;107;12.2;15.0;10;564
+107;Włóczka DROPS Big Merino mix 08 - marmur;107;12.2;15.0;10;564
+108;Włóczka DROPS Big Merino 19 - beż;107;12.2;15.0;10;564
+109;Włóczka DROPS Big Merino 24 - jasny beż;107;12.2;15.0;10;564
+110;Włóczka DROPS Big Merino mix 21 - szaro-beżowy;107;12.2;15.0;10;564
+111;Włóczka DROPS Big Merino mix 22 -pudrowy róż;107;12.2;15.0;10;564
+112;Włóczka DROPS Bomull-Lin 01 - biały;108;9.27;11.4;10;564
+113;Włóczka DROPS Bomull-Lin 02 - ecru;108;9.27;11.4;10;564
+114;Włóczka DROPS Bomull-Lin 20 - szaro-niebieski;108;9.27;11.4;10;564
+115;Włóczka DROPS Bomull-Lin 21 - ciemnoniebieski;108;9.27;11.4;10;564
+116;Włóczka DROPS Bomull-Lin 05 - brąz;108;9.27;11.4;10;564
+117;Włóczka DROPS Bomull-Lin 11 - beż;108;9.27;11.4;10;564
+118;Włóczka DROPS Bomull-Lin 03 - piaskowy;108;9.27;11.4;10;564
+119;Włóczka DROPS Bomull-Lin 15 - jasny szary;108;9.27;11.4;10;564
+120;Włóczka DROPS Bomull-Lin 16 - czarny;108;9.27;11.4;10;564
+121;Włóczka DROPS Brushed Alpaca Silk 01 - ecru;103;10.08;12.4;10;564
+122;Włóczka DROPS Brushed Alpaca Silk 19 - curry;103;10.08;12.4;10;564
+123;Włóczka DROPS Brushed Alpaca Silk 40 - marcepan;103;10.08;12.4;10;564
+124;Włóczka DROPS Brushed Alpaca Silk 30 - żółty;103;10.08;12.4;10;564
+125;Włóczka DROPS Brushed Alpaca Silk 29 - mandarynka;103;10.08;12.4;10;564
+126;Włóczka DROPS Brushed Alpaca Silk 22 - bladordzawy;103;10.08;12.4;10;564
+127;Włóczka DROPS Brushed Alpaca Silk 24 - rdza;103;10.08;12.4;10;564
+128;Włóczka DROPS Brushed Alpaca Silk 23 - bordowy;103;10.08;12.4;10;564
+129;Włóczka DROPS Brushed Alpaca Silk 37 - słodka morela;103;10.08;12.4;10;564
+130;Włóczka DROPS Brushed Alpaca Silk 06 - koralowy;103;10.08;12.4;10;564
+131;Włóczka DROPS Brushed Alpaca Silk 07 - czerwony;103;10.08;12.4;10;564
+132;Włóczka DROPS Brushed Alpaca Silk 18 - wiśnia;103;10.08;12.4;10;564
+133;Włóczka DROPS Brushed Alpaca Silk 31 - intensywny róż;103;10.08;12.4;10;564
+134;Włóczka DROPS Brushed Alpaca Silk 12 - pudrowy róż;103;10.08;12.4;10;564
+135;Włóczka DROPS Brushed Alpaca Silk 20 - piaskowy róż;103;10.08;12.4;10;564
+136;Włóczka DROPS Cotton Light 02 - biały;110;4.55;5.6;10;564
+137;Włóczka DROPS Cotton Light 01 - ecru;110;4.55;5.6;10;564
+138;Włóczka DROPS Cotton Light 42 - wanilia;110;4.55;5.6;10;564
+139;Włóczka DROPS Cotton Light 55 - cytrynowy;110;4.55;5.6;10;564
+140;Włóczka DROPS Cotton Light 28 - złoty żółty;110;4.55;5.6;10;564
+141;Włóczka DROPS Cotton Light 35 - rdza;110;4.55;5.6;10;564
+142;Włóczka DROPS Cotton Light 37 - migdałowy;110;4.55;5.6;10;564
+143;Włóczka DROPS Cotton Light 40 - jasna brzoskwinia;110;4.55;5.6;10;564
+144;Włóczka DROPS Cotton Light 53 - brzoskwinia;110;4.55;5.6;10;564
+145;Włóczka DROPS Cotton Light 32 - czerwony;110;4.55;5.6;10;564
+146;Włóczka DROPS Cotton Light 47 - karminowy;110;4.55;5.6;10;564
+147;Włóczka DROPS Cotton Light 38 - dzika orchidea;110;4.55;5.6;10;564
+148;Włóczka DROPS Cotton Light 18 - neonowy róż;110;4.55;5.6;10;564
+149;Włóczka DROPS Cotton Light 45 - różowy flaming;110;4.55;5.6;10;564
+150;Włóczka DROPS Cotton Light 49 - koralowy;110;4.55;5.6;10;564
+151;Włóczka DROPS Cotton Merino 01 - biały;110;12.03;14.8;10;564
+152;Włóczka DROPS Cotton Merino 28 - pudrowy;110;12.03;14.8;10;564
+153;Włóczka DROPS Cotton Merino 38 - pszeniczny;110;12.03;14.8;10;564
+154;Włóczka DROPS Cotton Merino 17 - wanilia;110;12.03;14.8;10;564
+155;Włóczka DROPS Cotton Merino 15 - żółty;110;12.03;14.8;10;564
+156;Włóczka DROPS Cotton Merino 34 - mniszek;110;12.03;14.8;10;564
+157;Włóczka DROPS Cotton Merino 06 - wiśniowy;110;12.03;14.8;10;564
+158;Włóczka DROPS Cotton Merino 25 - rdza;110;12.03;14.8;10;564
+159;Włóczka DROPS Cotton Merino 36 - sorbet malinowy;110;12.03;14.8;10;564
+160;Włóczka DROPS Cotton Merino 05 - pudrowy róż;110;12.03;14.8;10;564
+161;Włóczka DROPS Cotton Merino 23 - lawenda;110;12.03;14.8;10;564
+162;Włóczka DROPS Cotton Merino 31 - słodka orchidea;110;12.03;14.8;10;564
+163;Włóczka DROPS Cotton Merino 16 - dżins;110;12.03;14.8;10;564
+164;Włóczka DROPS Cotton Merino 08 - granatowy;110;12.03;14.8;10;564
+165;Włóczka DROPS Cotton Merino 26 - zgaszony niebieski;110;12.03;14.8;10;564
+166;Włóczka DROPS Daisy 01 - ecru;111;12.2;15.0;10;564
+167;Włóczka DROPS Daisy 02 - marcepan;111;12.2;15.0;10;564
+168;Włóczka DROPS Daisy 16 - lemoniada;111;12.2;15.0;10;564
+169;Włóczka DROPS Daisy 23 - pomarańczowy;111;12.2;15.0;10;564
+170;Włóczka DROPS Daisy 20 - czerwony;111;12.2;15.0;10;564
+171;Włóczka DROPS Daisy 21 - szkarłatna czerwień;111;12.2;15.0;10;564
+172;Włóczka DROPS Daisy 22 - magenta;111;12.2;15.0;10;564
+173;Włóczka DROPS Daisy 06 - pudrowy róż;111;12.2;15.0;10;564
+174;Włóczka DROPS Daisy 07 - słodka orchidea;111;12.2;15.0;10;564
+175;Włóczka DROPS Daisy 09 - stalowy błękit;111;12.2;15.0;10;564
+176;Włóczka DROPS Daisy 10 - błękitny;111;12.2;15.0;10;564
+177;Włóczka DROPS Daisy 24 - kobalt;111;12.2;15.0;10;564
+178;Włóczka DROPS Daisy 19 - granatowy;111;12.2;15.0;10;564
+179;Włóczka DROPS Daisy 18 - ciemnoniebieska zieleń;111;12.2;15.0;10;564
+180;Włóczka DROPS Daisy 26 - zielona szałwia;111;12.2;15.0;10;564
+181;Włóczka DROPS  Fabel 100 - ecru;112;8.13;10.0;10;564
+182;Włóczka DROPS  Fabel 121 - pszeniczny;112;8.13;10.0;10;564
+183;Włóczka DROPS  Fabel 111 - musztarda;112;8.13;10.0;10;564
+184;Włóczka DROPS  Fabel 119 - elektryzujący pomarańcz;112;8.13;10.0;10;564
+185;Włóczka DROPS  Fabel 110 - rdza;112;8.13;10.0;10;564
+186;Włóczka DROPS  Fabel 106 - czerwony;112;8.13;10.0;10;564
+187;Włóczka DROPS  Fabel 113 - bordowy;112;8.13;10.0;10;564
+188;Włóczka DROPS  Fabel 109 - fuksja;112;8.13;10.0;10;564
+189;Włóczka DROPS  Fabel 102 - różowy;112;8.13;10.0;10;564
+190;Włóczka DROPS  Fabel 120 - baby pink;105;8.13;10.0;10;564
+191;Włóczka DROPS  Fabel 104 - fioletowy;112;8.13;10.0;10;564
+192;Włóczka DROPS  Fabel 108 - szafirowy;112;8.13;10.0;10;564
+193;Włóczka DROPS  Fabel 117 - jasnoniebieski;112;8.13;10.0;10;564
+194;Włóczka DROPS  Fabel 107 - niebieski;112;8.13;10.0;10;564
+195;Włóczka DROPS  Fabel 116 - chabrowy;112;8.13;10.0;10;564
+196;Włóczka DROPS  Flora 02 - biały;113;8.37;10.3;10;564
+197;Włóczka DROPS  Flora 22 - biała mgiełka;113;8.37;10.3;10;564
+198;Włóczka DROPS  Flora mix 24 - truskawkowa czerwień;113;8.86;10.9;10;564
+199;Włóczka DROPS  Flora 01 - ecru;113;8.37;10.3;10;564
+200;Włóczka DROPS  Flora 26 - lemoniada;113;8.37;10.3;10;564
+201;Włóczka DROPS  Flora mix 17 - żółty;113;8.86;10.9;10;564
+202;Włóczka DROPS  Flora 29 - mandarynka;113;8.37;10.3;10;564
+203;Włóczka DROPS  Flora mix 18 - czerwony;113;8.86;10.9;10;564
+204;Włóczka DROPS  Flora mix 33 - głęboka czerwień;113;8.86;10.9;10;564
+205;Włóczka DROPS  Flora 28 - magenta;113;8.37;10.3;10;564
+206;Włóczka DROPS  Flora 21 - róż;113;8.37;10.3;10;564
+207;Włóczka DROPS  Flora 30 - pustynna róża;113;8.37;10.3;10;564
+208;Włóczka DROPS  Flora 09 - ametyst;113;8.37;10.3;10;564
+209;Włóczka DROPS  Flora 14 - błękitny;113;8.37;10.3;10;564
+210;Włóczka DROPS  Flora 13 - jasny dżins;113;8.37;10.3;10;564
+211;Włókno miedziane DROPS Glitter 01 - złoty;0;7.24;8.9;10;0
+212;Włókno miedziane DROPS Glitter 08 - czerwony;0;7.24;8.9;10;0
+213;Włókno miedziane DROPS Glitter 02 - srebrny;0;7.24;8.9;10;0
+214;Włóczka DROPS  Karisma 19 - biały;114;8.13;10.0;10;564
+215;Włóczka DROPS  Karisma 01 - ecru;114;8.13;10.0;10;564
+216;Włóczka DROPS  Karisma 79 - cytrynowy;114;8.13;10.0;10;564
+217;Włóczka DROPS  Karisma 52 - ciemna musztarda;114;8.13;10.0;10;564
+218;Włóczka DROPS  Karisma 11 - pomarańczowy;114;8.13;10.0;10;564
+219;Włóczka DROPS  Karisma 18 - czerwony;114;8.13;10.0;10;564
+220;Włóczka DROPS  Karisma 48 - czerwone wino;114;8.13;10.0;10;564
+221;Włóczka DROPS  Karisma 80 - herbaciany róż;114;8.13;10.0;10;564
+222;Włóczka DROPS  Karisma 13 - róż;114;8.13;10.0;10;564
+223;Włóczka DROPS  Karisma 33 - średni róż;114;8.13;10.0;10;564
+224;Włóczka DROPS  Karisma 71 - srebrny róż;114;8.13;10.0;10;564
+225;Włóczka DROPS  Karisma 84 - pustynna róża;114;8.13;10.0;10;564
+226;Włóczka DROPS  Karisma 40 - jasny stary róż;114;8.13;10.0;10;564
+227;Włóczka DROPS  Karisma 81 - stary róż;114;8.13;10.0;10;564
+228;Włóczka DROPS  Karisma 39 - ciemny stary róż;114;8.13;10.0;10;564
+229;Włóczka DROPS  Kid-Silk 01 - ecru;115;16.18;19.9;10;564
+230;Włóczka DROPS  Kid-Silk 56 - marcepan;115;16.18;19.9;10;564
+231;Włóczka DROPS  Kid-Silk 29 - wanilia;115;16.18;19.9;10;564
+232;Włóczka DROPS  Kid-Silk 52 - lemoniada;115;16.18;19.9;10;564
+233;Włóczka DROPS  Kid-Silk 30 - curry;115;16.18;19.9;10;564
+234;Włóczka DROPS  Kid-Silk 49 - electric orange;115;16.18;19.9;10;564
+235;Włóczka DROPS  Kid-Silk 33 - rdza;115;16.18;19.9;10;564
+236;Włóczka DROPS  Kid-Silk 53 - jasna brzoskwinia;115;16.18;19.9;10;564
+237;Włóczka DROPS  Kid-Silk 62 - lody truskawkowe;115;16.18;19.9;10;564
+238;Włóczka DROPS  Kid-Silk 14 - czerwony;115;16.18;19.9;10;564
+239;Włóczka DROPS  Kid-Silk 61 - głęboka czerwień;115;16.18;19.9;10;564
+240;Włóczka DROPS  Kid-Silk 46 - wiśniowy sorbet;115;16.18;19.9;10;564
+241;Włóczka DROPS  Kid-Silk 32 - malinowy;115;16.18;19.9;10;564
+242;Włóczka DROPS  Kid-Silk 13 - róż;115;16.18;19.9;10;564
+243;Włóczka DROPS  Kid-Silk 03 - bladoróżowy;115;16.18;19.9;10;564
+244;Włóczka DROPS  Lima 1101 - biały;116;8.37;10.3;10;564
+245;Włóczka DROPS  Lima 9025 - kreda;116;8.37;10.3;10;564
+246;Włóczka DROPS  Lima 0100 - ecru;116;8.37;10.3;10;564
+247;Włóczka DROPS  Lima 2923 - ochra;116;8.37;10.3;10;564
+248;Włóczka DROPS  Lima mix 0707 - rdza;116;8.86;10.9;10;564
+249;Włóczka DROPS  Lima 3609 - czerwony;116;8.37;10.3;10;564
+250;Włóczka DROPS  Lima 5820 - czerwone wino;116;8.37;10.3;10;564
+251;Włóczka DROPS  Lima 9021 - czerwona cegła;116;8.37;10.3;10;564
+252;Włóczka DROPS  Lima 9023 - bordowy;116;8.37;10.3;10;564
+253;Włóczka DROPS  Lima 9028 - magenta;116;8.37;10.3;10;564
+254;Włóczka DROPS  Lima mix 9022 - blush;116;8.86;10.9;10;564
+255;Włóczka DROPS  Lima 3145 - pudrowy róż;116;8.37;10.3;10;564
+256;Włóczka DROPS  Lima mix 4434 - fioletowy;116;8.86;10.9;10;564
+257;Włóczka DROPS  Lima mix 9032 - mgła;116;8.86;10.9;10;564
+258;Włóczka DROPS  Lima 4305 - indygo;116;8.37;10.3;10;564
+259;Włóczka DROPS  Melody 01 - ecru;117;15.61;19.2;10;564
+260;Włóczka DROPS  Melody 23 - woda różana;117;15.61;19.2;10;564
+261;Włóczka DROPS  Melody 24 - marcepan;117;15.61;19.2;10;564
+262;Włóczka DROPS  Melody 14 - wanilia;117;15.61;19.2;10;564
+263;Włóczka DROPS  Melody 18 - musztarda;117;15.61;19.2;10;564
+264;Włóczka DROPS  Melody 25 - różowa brzoskwinia;117;15.61;19.2;10;564
+265;Włóczka DROPS  Melody 17 - ciemnoróżowy;117;15.61;19.2;10;564
+266;Włóczka DROPS  Melody 06 - pudrowy róż;117;15.61;19.2;10;564
+267;Włóczka DROPS  Melody 22 - słodka orchidea;117;15.61;19.2;10;564
+268;Włóczka DROPS  Melody 27 - przymglony fiolet;117;15.61;19.2;10;564
+269;Włóczka DROPS  Melody 21 - błękitny;117;15.61;19.2;10;564
+270;Włóczka DROPS  Melody 02 - mgła;117;15.61;19.2;10;564
+271;Włóczka DROPS  Melody 07 - ciemny dżins;117;15.61;19.2;10;564
+272;Włóczka DROPS  Melody 28 - morski;117;15.61;19.2;10;564
+273;Włóczka DROPS  Melody 08 - petrol;117;15.61;19.2;10;564
+274;Włóczka DROPS Merino Extra Fine 01- ecru;118;12.2;15.0;10;564
+275;Włóczka DROPS Merino Extra Fine 24 - jasnożółty;118;12.2;15.0;10;564
+276;Włóczka DROPS Merino Extra Fine 30 - musztarda;118;12.2;15.0;10;564
+277;Włóczka DROPS Merino Extra Fine 42 - cedr;118;12.2;15.0;10;564
+278;Włóczka DROPS Merino Extra Fine 11 - karminowy;118;12.2;15.0;10;564
+279;Włóczka DROPS Merino Extra Fine 48 - bordowy;118;12.2;15.0;10;564
+280;Włóczka DROPS Merino Extra Fine 45 - blush;118;12.2;15.0;10;564
+281;Włóczka DROPS Merino Extra Fine 25 - średni róż;118;12.2;15.0;10;564
+282;Włóczka DROPS Merino Extra Fine 16 - jasny róż;118;12.2;15.0;10;564
+283;Włóczka DROPS Merino Extra Fine 40 - pudrowy róż;118;12.2;15.0;10;564
+284;Włóczka DROPS Merino Extra Fine 46 - pustynna róża;118;12.2;15.0;10;564
+285;Włóczka DROPS Merino Extra Fine 32 -  stary róż;118;12.2;15.0;10;564
+286;Włóczka DROPS Merino Extra Fine 36 - ametyst;118;12.2;15.0;10;564
+287;Włóczka DROPS Merino Extra Fine 22 - liliowy;118;12.2;15.0;10;564
+288;Włóczka DROPS Merino Extra Fine 34 - wrzos;118;12.2;15.0;10;564
+289;Włóczka DROPS Muskat 18 - biały;119;6.99;8.6;10;564
+290;Włóczka DROPS Muskat 08 - ecru;119;6.99;8.6;10;564
+291;Włóczka DROPS Muskat 30 - wanilia;119;6.99;8.6;10;564
+292;Włóczka DROPS Muskat 07 - jasnożółty;119;6.99;8.6;10;564
+293;Włóczka DROPS Muskat 85 - musztarda;119;6.99;8.6;10;564
+294;Włóczka DROPS Muskat 49 - ciemnopomarańczowy;119;6.99;8.6;10;564
+295;Włóczka DROPS Muskat 12 - czerwony;119;6.99;8.6;10;564
+296;Włóczka DROPS Muskat 81 - glina;119;6.99;8.6;10;564
+297;Włóczka DROPS Muskat 41 - bordowy;119;6.99;8.6;10;564
+298;Włóczka DROPS Muskat 87 - owoc granatu;119;6.99;8.6;10;564
+299;Włóczka DROPS Muskat 86 - piaskowy róż;119;6.99;8.6;10;564
+300;Włóczka DROPS Muskat 29 - różowa pantera;119;6.99;8.6;10;564
+301;Włóczka DROPS Muskat 05 - liliowy jasny;119;6.99;8.6;10;564
+302;Włóczka DROPS Muskat 04 - liliowy;119;6.99;8.6;10;564
+303;Włóczka DROPS Muskat 92 - słodka orchidea;119;6.99;8.6;10;564
+304;Włóczka DROPS Nepal  1101 -  biały;120;8.37;10.3;10;564
+305;Włóczka DROPS Nepal 8915 - kreda;120;8.37;10.3;10;564
+306;Włóczka DROPS Nepal 0100 - ecru;120;8.37;10.3;10;564
+307;Włóczka DROPS Nepal 8919 - lemoniada;120;8.37;10.3;10;564
+308;Włóczka DROPS Nepal 8920 - mlecz;120;8.37;10.3;10;564
+309;Włóczka DROPS Nepal 2923 - ochra;120;8.37;10.3;10;564
+310;Włóczka DROPS Nepal mix 2920 - pomarańczowy;120;8.86;10.9;10;564
+311;Włóczka DROPS Nepal 3620 - czerwony;120;8.37;10.3;10;564
+312;Włóczka DROPS Nepal 8914 - czerwona glina;120;8.37;10.3;10;564
+313;Włóczka DROPS Nepal 8916 - bordowy;120;8.37;10.3;10;564
+314;Włóczka DROPS Nepal 3608 - ciemny róż;120;8.37;10.3;10;564
+315;Włóczka DROPS Nepal 8910 - malina;120;8.37;10.3;10;564
+316;Włóczka DROPS Nepal mix 8912 - blush;120;8.86;10.9;10;564
+317;Włóczka DROPS Nepal 3720 - średni róż;120;8.37;10.3;10;564
+318;Włóczka DROPS Nepal 3112 - pudrowy róż;120;8.37;10.3;10;564
+319;Włóczka DROPS Nord 01 - ecru;121;9.59;11.8;10;564
+320;Włóczka DROPS Nord 28 - mlecz;121;9.59;11.8;10;564
+321;Włóczka DROPS Nord 18 - ochra;121;9.59;11.8;10;564
+322;Włóczka DROPS Nord mix 11 - rdza;121;9.76;12.0;10;564
+323;Włóczka DROPS Nord 27 - jasna brzoskwinia;121;9.59;11.8;10;564
+324;Włóczka DROPS Nord 14 - czerwony;121;9.59;11.8;10;564
+325;Włóczka DROPS Nord 21 - czerwona cegła;121;9.59;11.8;10;564
+326;Włóczka DROPS Nord mix 20 - blush;121;9.76;12.0;10;564
+327;Włóczka DROPS Nord 12 - pudrowy róż;121;9.59;11.8;10;564
+328;Włóczka DROPS Nord 13 - stary róż;121;9.59;11.8;10;564
+329;Włóczka DROPS Nord 25 - słodka orchidea;121;9.59;11.8;10;564
+330;Włóczka DROPS Nord 26 - stalowy błękit;121;9.59;11.8;10;564
+331;Włóczka DROPS Nord mix 08 - mgła;121;9.76;12.0;10;564
+332;Włóczka DROPS Nord 16 - dżins;121;9.59;11.8;10;564
+333;Włóczka DROPS Nord 15 - granatowy;121;9.59;11.8;10;564
+334;Włóczka DROPS Paris 16 - biały;122;4.72;5.8;10;564
+335;Włóczka DROPS Paris 17 - ecru;122;4.72;5.8;10;564
+336;Włóczka DROPS Paris 75 - śmietanka;122;4.72;5.8;10;564
+337;Włóczka DROPS Paris 67 - pszeniczny;122;4.72;5.8;10;564
+338;Włóczka DROPS Paris 19 - jasnożółty;122;4.72;5.8;10;564
+339;Włóczka DROPS Paris 35 - żółty;122;4.72;5.8;10;564
+340;Włóczka DROPS Paris 14 - ciemnożółty;122;4.72;5.8;10;564
+341;Włóczka DROPS Paris 41 - musztarda;122;4.72;5.8;10;564
+342;Włóczka DROPS Paris 71 - mandarynka;122;4.72;5.8;10;564
+343;Włóczka DROPS Paris 13 - pomarańczowy;122;4.72;5.8;10;564
+344;Włóczka DROPS Paris 65 - rdza;122;4.72;5.8;10;564
+345;Włóczka DROPS Paris 74 - krem morelowy;122;4.72;5.8;10;564
+346;Włóczka DROPS Paris 01 - morela;122;4.72;5.8;10;564
+347;Włóczka DROPS Paris 27 - brzoskwinia;122;4.72;5.8;10;564
+348;Włóczka DROPS Paris 12 - czerwony;122;4.72;5.8;10;564
+349;Włóczka DROPS Polaris 01 - złamana biel;123;15.12;18.6;10;564
+350;Włóczka DROPS Polaris 13 - pianka cukrowa;123;15.12;18.6;10;564
+351;Włóczka DROPS Polaris 08  -  rubinowy;123;15.12;18.6;10;564
+352;Włóczka DROPS Polaris mix 05  -  kora;123;17.68;21.75;10;564
+353;Włóczka DROPS Polaris mix 06 - jasny beż;123;17.68;21.75;10;564
+354;Włóczka DROPS Polaris 04 - średni szary;123;15.12;18.6;10;564
+355;Włóczka DROPS Polaris 11 - jasny szary;123;15.12;18.6;10;564
+356;Włóczka DROPS Polaris 03 - ciemny szary;123;15.12;18.6;10;564
+357;Włóczka DROPS Polaris 02  - czarny;123;15.12;18.6;10;564
+358;Włóczka DROPS Puna natural 01 - ecru;124;11.54;14.2;10;564
+359;Włóczka DROPS Puna natural mix 03 - brąz;124;11.54;14.2;10;564
+360;Włóczka DROPS Puna natural mix 04 - szaro-brązowy;124;11.54;14.2;10;564
+361;Włóczka DROPS Puna natural mix 02 - beż;124;11.54;14.2;10;564
+362;Włóczka DROPS Puna natural mix 17 - nugat;124;11.54;14.2;10;564
+363;Włóczka DROPS Puna natural mix 07 - jasny szary;124;11.54;14.2;10;564
+364;Włóczka DROPS Puna natural mix 06 - szary;124;11.54;14.2;10;564
+365;Włóczka DROPS Puna natural mix 05 - ciemny szary;124;11.54;14.2;10;564
+366;Włóczka DROPS Puna natural mix 08 - czarny;124;11.54;14.2;10;564
+367;Włóczka DROPS Safran 72 - kreda;125;5.04;6.2;10;564
+368;Włóczka DROPS Safran 17 - biały;125;5.04;6.2;10;564
+369;Włóczka DROPS Safran 18 - ecru;125;5.04;6.2;10;564
+370;Włóczka DROPS Safran 71 - marcepan;125;5.04;6.2;10;564
+371;Włóczka DROPS Safran 10 - krem waniliowy;125;5.04;6.2;10;564
+372;Włóczka DROPS Safran 11 - żółty słoneczny;125;5.04;6.2;10;564
+373;Włóczka DROPS Safran 62 - cytryna;125;5.04;6.2;10;564
+374;Włóczka DROPS Safran 66 - musztarda;125;5.04;6.2;10;564
+375;Włóczka DROPS Safran 67 - dynia;125;5.04;6.2;10;564
+376;Włóczka DROPS Safran 68 - kawa;125;5.04;6.2;10;564
+377;Włóczka DROPS Safran 69 - blush;125;5.04;6.2;10;564
+378;Włóczka DROPS Safran 70 - orchidea;125;5.04;6.2;10;564
+379;Włóczka DROPS Safran 28 - pomarańczowy;125;5.04;6.2;10;564
+380;Włóczka DROPS Safran 59 - czerwona glina;125;5.04;6.2;10;564
+381;Włóczka DROPS Safran 20 - cherry;125;5.04;6.2;10;564
+382;Włóczka DROPS Sky 01 - biały;126;17.56;21.6;10;564
+383;Włóczka DROPS Sky 25 - biała mgła;126;17.56;21.6;10;564
+384;Włóczka DROPS Sky mix 17 - curry;126;16.67;20.5;10;564
+385;Włóczka DROPS Sky 19 - brzoskwinia;126;17.56;21.6;10;564
+386;Włóczka DROPS Sky mix 09 - cranberry;126;17.56;21.6;10;564
+387;Włóczka DROPS Sky mix 10 - sorbet wiśniowy;126;17.56;21.6;10;564
+388;Włóczka DROPS Sky mix 14 - jednorożec;126;17.56;21.6;10;564
+389;Włóczka DROPS Sky mix 28 - słodka orchidea;126;17.56;21.6;10;564
+390;Włóczka DROPS Sky 18 - przydymiony róż;126;17.56;21.6;10;564
+391;Włóczka DROPS Sky 27 - pudrowy róż;126;17.56;21.6;10;564
+392;Włóczka DROPS Sky mix 13 - jasny dżins;126;17.56;21.6;10;564
+393;Włóczka DROPS Sky mix 12 - dżins;126;17.56;21.6;10;564
+394;Włóczka DROPS Sky 23 - granatowy;126;17.56;21.6;10;564
+395;Włóczka DROPS Sky 26 - chabrowy;126;17.56;21.6;10;564
+396;Włóczka DROPS Sky 29 - kobalt;126;17.56;21.6;10;564
+397;Włóczka DROPS Snow 88 - kreda;127;7.11;8.75;10;564
+398;Włóczka DROPS Snow 01 - ecru;127;7.11;8.75;10;564
+399;Włóczka DROPS Snow 102 - marshmallow;127;7.11;8.75;10;564
+400;Włóczka DROPS Snow 106 - lemoniada;127;7.11;8.75;10;564
+401;Włóczka DROPS Snow 109 - mlecz;127;7.11;8.75;10;564
+402;Włóczka DROPS Snow 24 - żółty;127;7.11;8.75;10;564
+403;Włóczka DROPS Snow mix 85 - curry;127;8.13;10.0;10;564
+404;Włóczka DROPS Snow  101 - mandarynka;127;7.11;8.75;10;564
+405;Włóczka DROPS Snow  07 - pomarańczowy;127;7.11;8.75;10;564
+406;Włóczka DROPS Snow mix 86 - miedź;127;8.13;10.0;10;564
+407;Włóczka DROPS Snow 112 - słodka morela;127;7.11;8.75;10;564
+408;Włóczka DROPS Snow 107 - różowa brzoskwinia;127;7.11;8.75;10;564
+409;Włóczka DROPS Snow 110 - jasna brzoskwinia;127;7.11;8.75;10;564
+410;Włóczka DROPS Snow 111 - koralowy;127;7.11;8.75;10;564
+411;Włóczka DROPS Snow 08 - szkarłatna czerwień;127;7.11;8.75;10;564
+412;Włóczka DROPS Soft Tweed 01 - ecru;128;14.15;17.4;10;564
+413;Włóczka DROPS Soft Tweed 20 - sól i pieprz;128;14.15;17.4;10;564
+414;Włóczka DROPS Soft Tweed mix 02 - marcepan;128;14.15;17.4;10;564
+415;Włóczka DROPS Soft Tweed mix 14 - sorbet cherry;128;14.15;17.4;10;564
+416;Włóczka DROPS Soft Tweed mix 10 - dżins;128;14.15;17.4;10;564
+417;Włóczka DROPS Soft Tweed mix 16 - guacamole;128;14.15;17.4;10;564
+418;Włóczka DROPS Soft Tweed mix 17 - tarta szpinakowa;128;14.15;17.4;10;564
+419;Włóczka DROPS Soft Tweed mix 05 - grizzli;128;14.15;17.4;10;564
+420;Włóczka DROPS Soft Tweed mix 04 - biszkopt;128;14.15;17.4;10;564
+421;Włóczka DROPS Soft Tweed mix 03 - piaskowy;128;14.15;17.4;10;564
+422;Włóczka DROPS Soft Tweed mix 06 - otoczaki;128;14.15;17.4;10;564
+423;Włóczka DROPS Soft Tweed mix 07 - bruk;128;14.15;17.4;10;564
+424;Włóczka DROPS Soft Tweed mix 09 - kruk;128;14.15;17.4;10;564
+425;Włóczka DROPS Loves You #7  01 - biały;129;3.82;4.7;10;564
+426;Włóczka DROPS Loves You #7  32 - perłowy;129;3.82;4.7;10;564
+427;Włóczka DROPS Loves You #7 print  38 - cookies & cream/ ciasteczka z kremem;129;3.82;4.7;10;564
+428;Włóczka DROPS Loves You #7  35 - pszeniczny;129;3.82;4.7;10;564
+429;Włóczka DROPS Loves You #7  08 - wanilia;129;3.82;4.7;10;564
+430;Włóczka DROPS Loves You #7  57 - lemoniada;129;3.82;4.7;10;564
+431;Włóczka DROPS Loves You #7  09 - żółty;129;3.82;4.7;10;564
+432;Włóczka DROPS Loves You #7  33 - złoty żółty;129;3.82;4.7;10;564
+433;Włóczka DROPS Loves You #7  56 - pomarańczowy;129;3.82;4.7;10;564
+434;Włóczka DROPS Loves You #7  34 - rdza;129;3.82;4.7;10;564
+435;Włóczka DROPS Loves You #7  16 - czerwony;129;3.82;4.7;10;564
+436;Włóczka DROPS Loves You #7  20 - karminowy;129;3.82;4.7;10;564
+437;Włóczka DROPS Loves You #7  52 - intensywna czerwień;129;3.82;4.7;10;564
+438;Włóczka DROPS Loves You #7  53 - lody pistacjowe;129;3.82;4.7;10;564
+439;Włóczka DROPS Loves You #7  48 - wiśnia;129;3.82;4.7;10;564
+440;Włóczka DROPS Loves You #9  101 - biały;129;3.09;3.8;10;564
+441;Włóczka DROPS Loves You #9  107 - musztarda;129;3.09;3.8;10;564
+442;Włóczka DROPS Loves You #9  108 - koralowy;129;3.09;3.8;10;564
+443;Włóczka DROPS Loves You #9  109 - róż;129;3.09;3.8;10;564
+444;Włóczka DROPS Loves You #9  110 - jasny róż;129;3.09;3.8;10;564
+445;Włóczka DROPS Loves You #9  111 - ametyst;129;3.09;3.8;10;564
+446;Włóczka DROPS Loves You #9  112 - fiolet;129;3.09;3.8;10;564
+447;Włóczka DROPS Loves You #9  117 - stalowy błękit;129;3.09;3.8;10;564
+448;Włóczka DROPS Loves You #9  116 - niebieski morski;129;3.09;3.8;10;564
+449;Włóczka DROPS Loves You #9  115 - dżins;129;3.09;3.8;10;564
+450;Włóczka DROPS Loves You #9 113 - granatowy;129;3.09;3.8;10;564
+451;Włóczka DROPS Loves You #9  114 - burzowy niebieski;129;3.09;3.8;10;564
+452;Włóczka DROPS Loves You #9  118 - mroźna zieleń;129;3.09;3.8;10;564
+453;Włóczka DROPS Loves You #9  119 - zielony agat;129;3.09;3.8;10;564
+454;Włóczka DROPS Loves You #9  106 - beż;129;3.09;3.8;10;564
+455;Włóczka Fibra Natura Bamboo Jazz 201 - biały;130;22.15;27.25;10;578
+456;Włóczka Fibra Natura Bamboo Jazz 202 - ecru;130;16.67;20.5;10;578
+457;Włóczka Fibra Natura Bamboo Jazz 213 - żółty;130;20.06;24.67;10;578
+458;Włóczka Fibra Natura Bamboo Jazz 235 - pomarańczowy;130;20.95;25.77;10;578
+459;Włóczka Fibra Natura Bamboo Jazz 203 - koral;130;30.49;37.5;10;578
+460;Włóczka Fibra Natura Bamboo Jazz 204 - czerwony świąteczny;130;10.15;12.48;10;578
+461;Włóczka Fibra Natura Bamboo Jazz 214 - wyrazisty różowy;130;20.91;25.72;10;578
+462;Włóczka Fibra Natura Bamboo Jazz 226 - przydymiony róż;130;24.5;30.13;10;578
+463;Włóczka Fibra Natura Bamboo Jazz 230 - ametyst;130;39.02;47.99;10;578
+464;Włóczka Fibra Natura Bamboo Jazz 222 - wrzos;130;24.93;30.66;10;578
+465;Włóczka Fibra Natura Bamboo Jazz 234 - cegła;130;8.67;10.67;10;578
+466;Włóczka Fibra Natura Bamboo Jazz 231 - winogrona;130;8.33;10.24;10;578
+467;Włóczka Fibra Natura Bamboo Jazz 205 - średni fiolet;130;30.27;37.23;10;578
+468;Włóczka Fibra Natura Bamboo Jazz 218 - akwamaryna;130;9.67;11.89;10;578
+469;Włóczka Fibra Natura Bamboo Jazz 207 - niebieski;130;17.08;21.01;10;578
+470;Włóczka Fibra Natura Cotton Royal Color Waves 01 - truskawkowe marzenie;110;13.13;16.15;10;564
+471;Włóczka Fibra Natura Cotton Royal Color Waves 02 - awokado w pomidorach;110;24.85;30.56;10;564
+472;Włóczka Fibra Natura Cotton Royal Color Waves 04 - mrożone owoce leśne;110;31.49;38.73;10;564
+473;Włóczka Fibra Natura Cotton Royal Color Waves 05 - antarktyda;110;22.83;28.08;10;564
+474;Włóczka Fibra Natura Cotton Royal Color Waves 08 - leśne jagody;110;13.77;16.94;10;564
+475;Włóczka Fibra Natura Cotton Royal Color Waves 09 - kwiatowy koktajl;110;12.28;15.1;10;564
+476;Włóczka Fibra Natura Cotton Royal Color Waves 10 - morskie oko;110;33.37;41.05;10;564
+477;Włóczka Fibra Natura Cotton Royal Color Waves 11 - niebieskie obłoki;110;10.86;13.36;10;564
+478;Włóczka Fibra Natura Cotton Royal Color Waves 13 - poranek;110;12.56;15.45;10;564
+479;Włóczka Fibra Natura Cotton Royal Color Waves 14 - błekitna laguna;110;31.55;38.81;10;564
+480;Włóczka Fibra Natura Cotton Royal Color Waves 15 - jesienne liście;110;29.74;36.58;10;564
+481;Włóczka Fibra Natura Cotton Royal Color Waves 16 - głębia oceanu;110;34.04;41.87;10;564
+482;Włóczka Fibra Natura Papyrus 01 - biały;130;38.61;47.49;10;578
+483;Włóczka Fibra Natura Papyrus 02 - ecru;130;33.67;41.42;10;578
+484;Włóczka Fibra Natura Papyrus 03 - jasny żółty;130;18.17;22.35;10;578
+485;Włóczka Fibra Natura Papyrus 31 - pomarańczowy;130;14.85;18.27;10;578
+486;Włóczka Fibra Natura Papyrus 27 - rdza;130;31.44;38.67;10;578
+487;Włóczka Fibra Natura Papyrus 07 - ciemny różowy;130;38.37;47.19;10;578
+488;Włóczka Fibra Natura Papyrus 09 - różowo-fioletowy;130;24.63;30.29;10;578
+489;Włóczka Fibra Natura Papyrus 05 - jasny róż;130;29.2;35.92;10;578
+490;Włóczka Fibra Natura Papyrus 06 - średni stary róż;130;23.17;28.5;10;578
+491;Włóczka Fibra Natura Papyrus 08 - stary róż;130;21.67;26.66;10;578
+492;Włóczka Fibra Natura Papyrus 10 - bez;130;13.53;16.64;10;578
+493;Włóczka Fibra Natura Papyrus 11 - ametyst;130;25.98;31.95;10;578
+494;Włóczka Fibra Natura Papyrus 13 - błękitny;130;8.77;10.79;10;578
+495;Włóczka Fibra Natura Papyrus 14 - jasny dżins;130;21.02;25.85;10;578
+496;Włóczka Fibra Natura Papyrus 16 - dżins;130;15.11;18.59;10;578
+497;Włóczka Fibra Natura Le Chic 201;130;25.94;31.91;10;578
+498;Włóczka Fibra Natura Le Chic 202;130;13.27;16.32;10;578
+499;Włóczka Fibra Natura Le Chic 203;130;36.92;45.41;10;578
+500;Włóczka Fibra Natura Le Chic 204;130;9.81;12.07;10;578
+501;Włóczka Fibra Natura Le Chic 205;130;21.85;26.88;10;578
+502;Włóczka Fibra Natura Le Chic 206;130;27.6;33.95;10;578
+503;Włóczka Fibra Natura Le Chic 207;130;37.63;46.29;10;578
+504;Włóczka Fibra Natura Le Chic 209;130;12.6;15.5;10;578
+505;Włóczka GABO WOOL Baby Alpaca 100 - natura;103;30.14;37.07;10;564
+506;Włóczka GABO WOOL Baby Alpaca TWEED T100 - natura;103;29.69;36.52;10;564
+507;Włóczka GABO WOOL Baby Alpaca TWEED T403 - chałwa;103;35.28;43.39;10;564
+508;Włóczka GABO WOOL Baby Alpaca 1427 - pudrowo-turkusowy;103;13.11;16.12;10;564
+509;Włóczka GABO WOOL Baby Alpaca 1922 - maślany;103;8.75;10.76;10;564
+510;Włóczka GABO WOOL Baby Alpaca 1164 - łososiowy;103;12.84;15.79;10;564
+511;Włóczka GABO WOOL Baby Alpaca 2055 - czerwień;103;37.89;46.6;10;564
+512;Włóczka GABO WOOL Baby Alpaca 1301 - szkarłatna czerwień;103;35.0;43.05;10;564
+513;Włóczka GABO WOOL Baby Alpaca 1216 - burgundowa czerwień;103;10.46;12.87;10;564
+514;Włóczka GABO WOOL Baby Alpaca 1007 - candy róż;103;32.38;39.83;10;564
+515;Włóczka GABO WOOL Baby Alpaca 1537 - lila;103;9.09;11.18;10;564
+516;Włóczka GABO WOOL Baby Alpaca 8117 - akwamaryna;103;8.58;10.55;10;564
+517;Włóczka GABO WOOL Baby Alpaca 1979 - morska zieleń;103;11.77;14.48;10;564
+518;Włóczka GABO WOOL Baby Alpaca 1304 - szaro-niebieski;103;17.18;21.13;10;564
+519;Włóczka GABO WOOL Baby Alpaca 1565 - morski;103;28.77;35.39;10;564
+520;Włóczka GABO WOOL Baby Silk Yak 9301 -  szkarłatna czerwień;105;16.51;20.31;10;564
+521;Włóczka GABO WOOL Baby Silk Yak 9230 - magenta;105;8.5;10.45;10;564
+522;Włóczka GABO WOOL Baby Silk Yak 9716 - brudny róż;105;35.48;43.64;10;564
+523;Włóczka GABO WOOL Baby Silk Yak 9741 - jasna lawenda;105;17.75;21.83;10;564
+524;Włóczka GABO WOOL Baby Silk Yak 9452 - mglisty błękit;105;15.6;19.19;10;564
+525;Włóczka GABO WOOL Baby Silk Yak 9917 - szaro-niebieski;105;12.08;14.86;10;564
+526;Włóczka GABO WOOL Baby Silk Yak 9172 - leśna zieleń;105;21.98;27.03;10;564
+527;Włóczka GABO WOOL Baby Silk Yak 9308 - ziemisty brąz;105;13.83;17.01;10;564
+528;Włóczka GABO WOOL Baby Silk Yak 9402 - szaro-beżowy;105;9.63;11.85;10;564
+529;Włóczka GABO WOOL Baby Silk Yak 9562 - szaro-szałwiowy;105;12.93;15.91;10;564
+530;Włóczka GABO WOOL Baby Silk Yak 9636 - jasny szary;105;20.76;25.54;10;564
+531;Włóczka GABO WOOL Baby Silk Yak 9500 -  czerń;105;18.14;22.31;10;564
+532;GABO WOOL Colorful Baby Brushed 7383 - czerwień;105;13.38;16.46;10;564
+533;GABO WOOL Colorful Baby Brushed 7007- candy róż;105;40.2;49.44;10;564
+534;GABO WOOL Colorful Baby Brushed 7500 - fuksja;105;21.84;26.86;10;564
+535;GABO WOOL Colorful Baby Brushed 7194 - jasny róż;105;21.37;26.28;10;564
+536;GABO WOOL Colorful Baby Brushed 7813 - niebiesko-fioletowy;105;27.66;34.02;10;564
+537;GABO WOOL Colorful Baby Brushed 7304 - szaro-niebieski;105;13.24;16.29;10;564
+538;GABO WOOL Colorful Baby Brushed 7600 - kobalt;105;22.84;28.09;10;564
+539;GABO WOOL Colorful Baby Brushed 7298 - jasna mięta;105;15.85;19.49;10;564
+540;GABO WOOL Colorful Baby Brushed 7457 - jasny błękit;105;17.71;21.78;10;564
+541;GABO WOOL Colorful Baby Brushed 7178 - limonka;105;25.52;31.39;10;564
+542;GABO WOOL Colorful Baby Brushed 7951 - zieleń;105;29.98;36.87;10;564
+543;GABO WOOL Colorful Baby Brushed 7172 - leśna zieleń;105;17.1;21.03;10;564
+544;GABO WOOL Colorful Baby Brushed 500 - czerń;105;12.98;15.97;10;564
+545;Włóczka GABO WOOL Eco Baby Brushed 1296 - naturalna biel;105;8.98;11.05;10;564
+546;Włóczka GABO WOOL Eco Baby Brushed 1301 - brąz;105;26.99;33.2;10;564
+547;Włóczka GABO WOOL Eco Baby Brushed 2175 - płowy;105;18.85;23.19;10;564
+548;Włóczka GABO WOOL Eco Baby Brushed 1297 - beż;105;17.44;21.45;10;564
+549;Włóczka GABO WOOL Eco Baby Brushed 1305 - jasny szary;105;14.03;17.26;10;564
+550;Włóczka GABO WOOL Eco Baby Brushed 2341 - szary;105;17.28;21.26;10;564
+551;Włóczka GABO WOOL Fine Highland Wool 100 - naturalny;130;35.9;44.16;10;578
+552;Włóczka GABO WOOL Fine Highland Wool TWEED T100 - naturalny;130;30.37;37.36;10;578
+553;Włóczka GABO WOOL Fine Highland Wool 2014 - maślany;0;15.22;18.72;10;0
+554;Włóczka GABO WOOL Fine Highland Wool 2224 - cytryna;0;39.02;48.0;10;0
+555;Włóczka GABO WOOL Fine Highland Wool 1180 - kurkuma;0;17.92;22.04;10;0
+556;Włóczka GABO WOOL Fine Highland Wool 8384 - łososiowy;0;38.83;47.76;10;0
+557;Włóczka GABO WOOL Fine Highland Wool 2383 - czerwień;0;25.33;31.16;10;0
+558;Włóczka GABO WOOL Fine Highland Wool 2015 - wino;0;23.28;28.64;10;0
+559;Włóczka GABO WOOL Fine Highland Wool 2160 - terakota;0;34.01;41.83;10;0
+560;Włóczka GABO WOOL Fine Highland Wool 2230 - magenta;0;33.6;41.33;10;0
+561;Włóczka GABO WOOL Fine Highland Wool 2244 - róż;0;27.37;33.67;10;0
+562;Włóczka GABO WOOL Fine Highland Wool 2741 - jasna lila;0;27.13;33.37;10;0
+563;Włóczka GABO WOOL Fine Highland Wool 2818 - lawenda;0;13.09;16.1;10;0
+564;Włóczka GABO WOOL Fine Highland Wool 8726 - akwamaryna;0;13.52;16.63;10;0
+565;Włóczka GABO WOOL Fine Highland Wool 2396 - petrol;0;32.76;40.29;10;0
+566;Włóczka GABO WOOL Fine Merino Wool 100 - naturalny;118;18.59;22.87;10;564
+567;Włóczka GABO WOOL Fine Merino Wool 3928 - pomarańczowy;118;24.87;30.59;10;564
+568;Włóczka GABO WOOL Fine Merino Wool 6569 - czerwień;118;37.21;45.77;10;564
+569;Włóczka GABO WOOL Fine Merino Wool 8545 - pudrowy;118;31.68;38.97;10;564
+570;Włóczka GABO WOOL Fine Merino Wool 3382 - jasna lila;118;8.75;10.76;10;564
+571;Włóczka GABO WOOL Fine Merino Wool 3387 - brudny róż;118;37.26;45.83;10;564
+572;Włóczka GABO WOOL Fine Merino Wool 3235 - śliwka;118;27.25;33.52;10;564
+573;Włóczka GABO WOOL Fine Merino Wool 3818 - lawenda;118;10.73;13.2;10;564
+574;Włóczka GABO WOOL Fine Merino Wool 3304 - szaro-niebieski;118;31.79;39.1;10;564
+575;Włóczka GABO WOOL Fine Merino Wool 8726 - akwamaryna;118;38.73;47.64;10;564
+576;Włóczka GABO WOOL Fine Merino Wool 8562 - szałwia;118;30.05;36.96;10;564
+577;Włóczka GABO WOOL Fine Merino Wool 1172 - leśna zieleń;118;10.51;12.93;10;564
+578;Włóczka GABO WOOL Fine Merino Wool 3908 - patyna;118;17.07;21.0;10;564
+579;Włóczka GABO WOOL Fine Merino Wool 3249 - czekolada;118;13.72;16.87;10;564
+580;Włóczka GABO WOOL Fine Merino Wool 3160 - tabaka;118;11.59;14.26;10;564
+581;Włóczka GABO WOOL Fine Peruvian Wool 8873 - naturalna biel;130;33.52;41.23;10;578
+582;Włóczka GABO WOOL Fine Peruvian Wool 8701 - szkarłatna czerwień;0;23.11;28.42;10;0
+583;Włóczka GABO WOOL Fine Peruvian Wool 8717 - sorbet malinowy;0;29.72;36.55;10;0
+584;Włóczka GABO WOOL Fine Peruvian Wool 8716 - róż;0;17.43;21.44;10;0
+585;Włóczka GABO WOOL Fine Peruvian Wool 8597 - jasna lilia;0;13.07;16.07;10;0
+586;Włóczka GABO WOOL Fine Peruvian Wool 8060 - błękitny;0;34.18;42.04;10;0
+587;Włóczka GABO WOOL Fine Peruvian Wool 8562 - szałwia;0;30.59;37.63;10;0
+588;Włóczka GABO WOOL Fine Peruvian Wool 8268 - ciemna szałwia;0;32.2;39.6;10;0
+589;Włóczka GABO WOOL Fine Peruvian Wool 8176 - leśna zieleń;0;33.28;40.93;10;0
+590;Włóczka GABO WOOL Fine Peruvian Wool 8308 - ziemisty brąz;0;18.16;22.34;10;0
+591;Włóczka GABO WOOL Fine Peruvian Wool 8152 - orzech;0;18.27;22.47;10;0
+592;Włóczka GABO WOOL Fine Peruvian Wool 8241 - szaro-beżowy;0;13.92;17.12;10;0
+593;Włóczka GABO WOOL Fine Peruvian Wool 8307 - popiel;0;23.26;28.61;10;0
+594;Włóczka GABO WOOL Fine Peruvian Wool 500 - czerń;0;17.63;21.68;10;0
+595;Włóczka GABO WOOL Fog 100 - naturalna biel;130;18.82;23.15;10;578
+596;Włóczka GABO WOOL Fog 6930 - kremowa biel;0;38.46;47.31;10;0
+597;Włóczka GABO WOOL Fog 6602 - szary;0;11.24;13.83;10;0
+598;Włóczka GABO WOOL Fog 6130 - magenta;0;38.15;46.93;10;0
+599;Włóczka GABO WOOL Fog 6159 -brudny róż;0;26.49;32.58;10;0
+600;Włóczka GABO WOOL Fog 6244 - róż;0;39.28;48.32;10;0
+601;Włóczka GABO WOOL Fog 6172 - leśna zieleń;0;18.27;22.47;10;0
+602;Włóczka GABO WOOL Fog 6105 - waniliowy;0;40.01;49.21;10;0
+603;Włóczka GABO WOOL Fog 6301 - szkarłatna czerwień;0;34.24;42.12;10;0
+604;Włóczka GABO WOOL Fog 6629 - liliowy;0;34.63;42.6;10;0
+605;Włóczka GABO WOOL Fog 6176 - chabrowy niebieski;0;9.74;11.98;10;0
+606;Włóczka GABO WOOL Fog 6230 - turkus;0;15.4;18.94;10;0
+607;Włóczka GABO WOOL Fog 6443 - lodowy błękit;0;35.96;44.23;10;0
+608;Włóczka GABO WOOL Fog 6350 - zielony mech;0;15.3;18.82;10;0
+609;Włóczka GABO WOOL Fog 6918 - pastelowa szałwia;0;12.47;15.34;10;0
+610;Włóczka Fibra Natura Papyrus 01 - biały;130;29.5;36.29;10;578
+611;Włóczka Fibra Natura Papyrus 02 - ecru;130;23.85;29.33;10;578
+612;Włóczka Fibra Natura Papyrus 03 - jasny żółty;130;36.74;45.19;10;578
+613;Włóczka Fibra Natura Papyrus 31 - pomarańczowy;130;17.23;21.19;10;578
+614;Włóczka Fibra Natura Papyrus 27 - rdza;130;40.07;49.28;10;578
+615;Włóczka Fibra Natura Papyrus 07 - ciemny różowy;130;13.83;17.01;10;578
+616;Włóczka Fibra Natura Papyrus 09 - różowo-fioletowy;130;30.76;37.83;10;578
+617;Włóczka Fibra Natura Papyrus 05 - jasny róż;130;11.52;14.17;10;578
+618;Włóczka Fibra Natura Papyrus 06 - średni stary róż;130;10.54;12.97;10;578
+619;Włóczka Fibra Natura Papyrus 08 - stary róż;130;31.7;38.99;10;578
+620;Włóczka Fibra Natura Papyrus 10 - bez;130;34.05;41.88;10;578
+621;Włóczka Fibra Natura Papyrus 11 - ametyst;130;12.84;15.79;10;578
+622;Włóczka Fibra Natura Papyrus 13 - błękitny;130;37.25;45.82;10;578
+623;Włóczka Fibra Natura Papyrus 14 - jasny dżins;130;16.14;19.85;10;578
+624;Włóczka Fibra Natura Papyrus 16 - dżins;130;17.36;21.35;10;578
+625;Włóczka GAZZAL Baby Alpaca Pure colors 6455 - jasny brąz;103;21.5;26.45;10;564
+626;Włóczka GAZZAL Baby Alpaca Pure colors 6455 - jasny brąz (50 g);103;23.28;28.64;10;564
+627;Włóczka GAZZAL Baby Alpaca Pure colors 6457 - gorzka czekolada;103;38.45;47.29;10;564
+628;Włóczka GAZZAL Baby Alpaca Pure colors 6453 - jasny beż;103;39.85;49.01;10;564
+629;Włóczka GAZZAL Baby Alpaca Pure colors 6454 - beżowo-szary;103;8.27;10.17;10;564
+630;Włóczka GAZZAL Baby Alpaca Pure colors 6450 - ecru (50 g);103;15.55;19.13;10;564
+631;Włóczka GAZZAL Baby Alpaca Pure colors 6451 - perłowy szary (50 g);103;10.34;12.72;10;564
+632;Włóczka GAZZAL Baby Alpaca Pure colors 6452 - jasny szary;103;32.97;40.55;10;564
+633;Włóczka GAZZAL Baby Alpaca Pure colors 6456 - grafitowo-brązowy;103;33.19;40.82;10;564
+634;Włóczka Gazzal Happy Feet 3244 - pomarańcze w słońcu;132;22.97;28.25;10;566
+635;Włóczka Gazzal Happy Feet 3248 - letnie popołudnie;132;39.02;48.0;10;566
+636;Włóczka Gazzal Happy Feet 3251 - malachit;132;32.86;40.42;10;566
+637;Włóczka Gazzal Happy Feet 3252 - kolory ziemi;132;18.79;23.11;10;566
+638;Włóczka Gazzal Happy Feet 3254 - sorbet cytrynowy;132;22.2;27.31;10;566
+639;Włóczka Gazzal Happy Feet 3255 - fiordy;132;27.37;33.67;10;566
+640;Włóczka Gazzal Happy Feet 3256 - niebieska mozaika;132;21.91;26.95;10;566
+641;Włóczka Gazzal Happy Feet 3257 - złocisty miód;132;23.39;28.77;10;566
+642;Włóczka Gazzal Happy Feet 3258 - zielony wojskowy;132;33.29;40.95;10;566
+643;Włóczka Gazzal Happy Feet 3259 - niebieski skrzat;132;14.76;18.15;10;566
+644;Włóczka Gazzal Happy Feet 3260 - wytrawny;132;23.89;29.38;10;566
+645;Włóczka Gazzal Happy Feet 3261 - śliwkowa mikstura;132;28.79;35.41;10;566
+646;Włóczka Gazzal Happy Feet 3262 - kolory gleby;132;33.37;41.04;10;566
+647;Włóczka Gazzal Happy Feet 3263 - śliwkowa salsa;132;24.22;29.79;10;566
+648;Włóczka Gazzal Happy Feet 3264 - toffi;132;29.23;35.95;10;566
+649;Włóczka Gazzal Unicorn 1354 - ecru;133;34.89;42.91;10;566
+650;Włóczka Gazzal Unicorn 1362 - atrament;133;24.11;29.66;10;566
+651;Włóczka Gazzal Unicorn 1356 - orzechowy;133;32.5;39.98;10;566
+652;Włóczka Gazzal Unicorn 1341 - księżycowa mgła;133;11.63;14.31;10;566
+653;Włóczka Gazzal Unicorn 1342 - naga skała;133;31.11;38.26;10;566
+654;Włóczka Gazzal Unicorn 1343 - czerwona śliwka;133;17.15;21.09;10;566
+655;Włóczka Gazzal Unicorn 1344 - żółty;133;27.36;33.65;10;566
+656;Włóczka Gazzal Unicorn 1345 - tango czerwieni;133;26.72;32.87;10;566
+657;Włóczka Gazzal Unicorn 1346 - lazurowe wybrzeże;133;17.82;21.92;10;566
+658;Włóczka Gazzal Unicorn 1347 - różowy piasek;133;22.59;27.79;10;566
+659;Włóczka Gazzal Unicorn 1348 - odcienie szarości;133;27.75;34.13;10;566
+660;Włóczka Gazzal Unicorn 1349 - zielone pesto;133;28.3;34.81;10;566
+661;Włóczka Gazzal Unicorn 1351 - czekolada z mlekiem;133;25.7;31.61;10;566
+662;Włóczka Gazzal Unicorn 1352 - pomarańczowy;133;32.72;40.24;10;566
+663;Włóczka Gazzal Unicorn 1357 - kwiat wiśni;133;38.8;47.73;10;566
+664;Włóczka Himalaya Dolphin Baby 302 - jasny żółty;105;38.88;47.82;10;564
+665;Włóczka Himalaya Dolphin Baby 355 - ciemny łosoś;105;37.51;46.14;10;564
+666;Włóczka Himalaya Dolphin Baby 333 - brzoskwiniowy jasny;105;18.36;22.58;10;564
+667;Włóczka Himalaya Dolphin Baby 349 - jasny stary róż;105;14.29;17.58;10;564
+668;Włóczka Himalaya Dolphin Baby 364 - średni fiolet;105;16.07;19.77;10;564
+669;Włóczka Himalaya Dolphin Baby 315 - turkusowy niebieski;105;24.11;29.66;10;564
+670;Włóczka Himalaya Dolphin Baby 354 - morska zieleń;105;37.54;46.18;10;564
+671;Włóczka Himalaya Dolphin Baby 347 - średni miętowy;105;37.36;45.95;10;564
+672;Włóczka Himalaya Dolphin Baby 345 - opal;105;11.58;14.24;10;564
+673;Włóczka Himalaya Dolphin Baby 320 - średni szary;105;30.33;37.3;10;564
+674;Włóczka HIMALAYA Everyday 001 - biały;135;28.32;34.83;10;578
+675;Włóczka HIMALAYA Everyday 002 - ecru;135;10.69;13.15;10;578
+676;Włóczka HIMALAYA Everyday 068 - waniliowy;135;28.23;34.72;10;578
+677;Włóczka HIMALAYA Everyday 042 - żółty;135;29.48;36.26;10;578
+678;Włóczka HIMALAYA Everyday 069 - tarta cytrynowa;135;14.64;18.01;10;578
+679;Włóczka HIMALAYA Everyday 072 - jasny żółty;135;21.8;26.81;10;578
+680;Włóczka HIMALAYA Everyday 058 - musztarda;135;27.01;33.22;10;578
+681;Włóczka HIMALAYA Everyday 059 - pomarańczowy;135;23.58;29.0;10;578
+682;Włóczka HIMALAYA Everyday 055 - rdza;135;35.57;43.75;10;578
+683;Włóczka HIMALAYA Everyday 062 - ciemny łosoś;135;8.63;10.62;10;578
+684;Włóczka HIMALAYA Everyday 037 - czerwony;135;30.77;37.85;10;578
+685;Włóczka HIMALAYA Everyday 003 - liliowo-różowy;135;32.41;39.87;10;578
+686;Włóczka HIMALAYA Everyday 006 - czerwony;135;31.67;38.95;10;578
+687;Włóczka HIMALAYA Everyday 045 - fuksja;135;8.28;10.19;10;578
+688;Włóczka HIMALAYA Everyday 071 - bordowy;135;34.9;42.93;10;578
+689;Włóczka HIMALAYA Everyday Big 801 - biały;107;34.55;42.5;10;564
+690;Włóczka HIMALAYA Everyday Big 802 - ecru;107;23.02;28.32;10;564
+691;Włóczka HIMALAYA Everyday Big 806 - musztarda;107;11.81;14.53;10;564
+692;Włóczka HIMALAYA Everyday Big 825 - rdza;107;23.82;29.3;10;564
+693;Włóczka HIMALAYA Everyday Big 828 - różowy koral;107;29.11;35.8;10;564
+694;Włóczka HIMALAYA Everyday Big 815 - czerwony;107;14.41;17.72;10;564
+695;Włóczka HIMALAYA Everyday Big 813 - fuksja;107;15.93;19.59;10;564
+696;Włóczka HIMALAYA Everyday Big 812 - różowy;107;34.49;42.42;10;564
+697;Włóczka HIMALAYA Everyday Big 827 - średni stary róż;107;34.36;42.26;10;564
+698;Włóczka HIMALAYA Everyday Big 814 - wino;107;24.8;30.51;10;564
+699;Włóczka HIMALAYA Everyday Big 816 - fioletowa orchidea;107;36.15;44.47;10;564
+700;Włóczka HIMALAYA Everyday Big 817 - ciemny fiolet;107;8.46;10.41;10;564
+701;Włóczka HIMALAYA Everyday Big 822 - dżins;107;37.38;45.98;10;564
+702;Włóczka HIMALAYA Everyday Big 821 - niebieski;107;21.74;26.74;10;564
+703;Włóczka HIMALAYA Everyday Big 823 - granat;107;27.19;33.44;10;564
+704;Włóczka HIMALAYA Himagurumi 101 - biały;136;28.37;34.9;10;578
+705;Włóczka HIMALAYA Himagurumi 102 - złamana biel;136;20.72;25.48;10;578
+706;Włóczka HIMALAYA Himagurumi 104 - śmietankowy;136;29.58;36.38;10;578
+707;Włóczka HIMALAYA Himagurumi 105 - ecru;136;20.48;25.19;10;578
+708;Włóczka HIMALAYA Himagurumi 164 - pszeniczny;136;38.94;47.9;10;578
+709;Włóczka HIMALAYA Himagurumi 126 - żółty;136;26.41;32.48;10;578
+710;Włóczka HIMALAYA Himagurumi 125 - cytrynowy;136;16.45;20.23;10;578
+711;Włóczka HIMALAYA Himagurumi 159 - musztarda;136;40.39;49.68;10;578
+712;Włóczka HIMALAYA Himagurumi 113 - jasny łosoś;136;14.72;18.1;10;578
+713;Włóczka HIMALAYA Himagurumi 134 - czerwony;136;10.94;13.46;10;578
+714;Włóczka HIMALAYA Himagurumi 133 - czerwony świąteczny;136;14.53;17.87;10;578
+715;Włóczka HIMALAYA Himagurumi 118 - wyrazisty róż;136;30.32;37.29;10;578
+716;Włóczka HIMALAYA Himagurumi 117 - średni róż;136;30.38;37.37;10;578
+717;Włóczka HIMALAYA Himagurumi 116 - jasny róż;136;34.88;42.9;10;578
+718;Włóczka HIMALAYA Himagurumi 115 - jasny pudrowy róż;136;30.33;37.3;10;578
+719;Włóczka Imagine Baby Alpaca 100 - naturalna biel;103;39.28;48.31;10;564
+720;Włóczka Imagine Baby Alpaca 206 - naturalny jasny brąz;103;18.01;22.15;10;564
+721;Włóczka Imagine Baby Alpaca 207- naturalny beż;103;26.56;32.67;10;564
+722;Włóczka Imagine Baby Alpaca 306 - naturalny brąz;103;25.21;31.01;10;564
+723;Włóczka Imagine Baby Alpaca 410 - naturalny ciemny brąz;103;29.2;35.91;10;564
+724;Włóczka Imagine Merino-Linen 10 - naturalny;118;11.79;14.5;10;564
+725;Włóczka Imagine Merino-Linen 20 - żółty;118;23.51;28.92;10;564
+726;Włóczka Imagine Merino-Linen 30 - róż;118;30.84;37.93;10;564
+727;Włóczka Imagine Merino-Linen 40 - zielony;118;18.45;22.69;10;564
+728;Włóczka Imagine Merino-Linen 50 - niebieski;118;15.09;18.56;10;564
+729;Włóczka Imagine Merino-Linen 60 - ciemny szary;118;13.24;16.29;10;564
+730;Włóczka KATIA Alabama 72 - miodowy;139;8.13;10.0;10;568
+731;Włóczka KATIA Alabama 68 - jagodowy;139;8.13;10.0;10;568
+732;Włóczka KATIA Alabama 75 - średni fiolet;139;8.13;10.0;10;568
+733;Włóczka KATIA Alabama 14 - średni dżins;139;8.13;10.0;10;568
+734;Włóczka KATIA Alabama 05 - granatowy morski;139;8.13;10.0;10;568
+735;Włóczka KATIA Fair Cotton Granny 305;101;35.67;43.87;10;564
+736;Włóczka KATIA Fair Cotton Granny 306;101;36.2;44.52;10;564
+737;Włóczka KATIA Fair Cotton Granny 308;101;17.47;21.49;10;564
+738;Włóczka KATIA Fair Cotton Granny 309;101;35.7;43.91;10;564
+739;Włóczka KATIA Fair Cotton Infinity 100;101;35.9;44.16;10;564
+740;Włóczka KATIA Fair Cotton Infinity 101;101;36.52;44.92;10;564
+741;Włóczka KATIA Fair Cotton Infinity 102;101;11.07;13.62;10;564
+742;Włóczka KATIA Fair Cotton Infinity 103;101;16.65;20.48;10;564
+743;Włóczka KATIA Fair Cotton Infinity 104;101;37.5;46.12;10;564
+744;Włóczka KATIA Fair Cotton Infinity 106;101;27.05;33.27;10;564
+745;Włóczka KATIA Fair Cotton Infinity 107;101;19.54;24.04;10;564
+746;Włóczka KATIA Love Wool 100 - ecru;141;34.2;42.06;10;568
+747;Włóczka KATIA Love Wool 128 -  musztarda;141;31.89;39.23;10;568
+748;Włóczka KATIA Love Wool 114 -  pomarańczowy;141;37.43;46.04;10;568
+749;Włóczka KATIA Love Wool 130 - jasny łosoś;141;18.78;23.1;10;568
+750;Włóczka KATIA Love Wool 115 -  czerwony;141;19.26;23.69;10;568
+751;Włóczka KATIA Love Wool 109 -  średni różowy;141;19.84;24.4;10;568
+752;Włóczka KATIA Love Wool 129 - bakłażan;141;26.24;32.27;10;568
+753;Włóczka KATIA Love Wool 132 - fioletowy;141;25.18;30.97;10;568
+754;Włóczka KATIA Love Wool 110 -  jasny niebieski;141;29.27;36.0;10;568
+755;Włóczka KATIA Love Wool 125 - dżins;141;18.18;22.36;10;568
+756;Włóczka KATIA Love Wool 121 - granatowy;141;21.25;26.14;10;568
+757;Włóczka KATIA Love Wool 133 - szmaragd;141;29.73;36.57;10;568
+758;Włóczka KATIA Love Wool 127 -  szałwia;141;29.59;36.4;10;568
+759;Włóczka KATIA Love Wool 113 -  pistacjowy;141;9.77;12.02;10;568
+760;Włóczka KATIA Love Wool 103 - szarobrązowy ciemny;141;27.63;33.98;10;568
+761;KATIA Love Wool Tones  200 - burgund;141;35.05;43.11;10;568
+762;KATIA Love Wool Tones  201 - brąz;141;13.47;16.57;10;568
+763;KATIA Love Wool Tones  202 - ochra;141;34.11;41.96;10;568
+764;KATIA Love Wool Tones  203 - turkus;141;26.19;32.21;10;568
+765;KATIA Love Wool Tones  204 - granatowy;141;19.97;24.56;10;568
+766;KATIA Love Wool Tones  205 - szary;141;22.63;27.84;10;568
+767;Włóczka Symfonie Bella 4001 - jaśmin;142;52.85;65.0;10;569
+768;Włóczka Symfonie Bella 4002 - sól himalajska;142;52.85;65.0;10;569
+769;Włóczka Symfonie Bella 4003 - różowy piasek;142;52.85;65.0;10;569
+770;Włóczka Symfonie Bella 4006 - zielona lemoniada;142;52.85;65.0;10;569
+771;Włóczka Symfonie Bella 4012 - fioletowe szkiełko;142;52.85;65.0;10;569
+772;Włóczka Symfonie Bella 4016 - limonkowy sorbet;142;52.85;65.0;10;569
+773;Włóczka Symfonie Bella 4017 - szałwia;142;52.85;65.0;10;569
+774;Włóczka Symfonie Bella 4018 - pawie oczko;142;52.85;65.0;10;569
+775;Włóczka Symfonie Bella 4019 - szmaragdowe morze;142;52.85;65.0;10;569
+776;Włóczka Symfonie Bella 4024 - koralowy blush;142;52.85;65.0;10;569
+777;Włóczka Symfonie Bella 4027 - suszone papryczki chili;142;52.85;65.0;10;569
+778;Włóczka Symfonie Bella VR4001 - brzeg rzeki;142;52.85;65.0;10;569
+779;Włóczka Symfonie Bella VR4002 - światła nocy;142;52.85;65.0;10;569
+780;Włóczka Symfonie Bella VR4003 - pejzaż mórz tropikalnych;142;52.85;65.0;10;569
+781;Włóczka Symfonie Bella VR4004 - kawa wśród róż;142;52.85;65.0;10;569
+782;Włóczka KnitPro Luna 3008 - rubelit;143;62.6;77.0;10;569
+783;Włóczka Symfonie Luna 3001 - światło księżyca;143;62.6;77.0;10;569
+784;Włóczka Symfonie Luna 3002 - różowa perła;143;62.6;77.0;10;569
+785;Włóczka Symfonie Luna 3003 - świetlik;143;62.6;77.0;10;569
+786;Włóczka Symfonie Luna 3004 - szafir;143;62.6;77.0;10;569
+787;Włóczka Symfonie Luna 3005 - turkus;143;62.6;77.0;10;569
+788;Włóczka Symfonie Luna 3006 - cyraneczka;143;62.6;77.0;10;569
+789;Włóczka Symfonie Luna 3007 - śliwka;143;62.6;77.0;10;569
+790;Włóczka Symfonie Luna 3009 - różowy agat;143;62.6;77.0;10;569
+791;Włóczka Symfonie Luna 3010 - rubin;143;62.6;77.0;10;569
+792;Włóczka Symfonie Luna 3011 - miedź;143;62.6;77.0;10;569
+793;Włóczka Symfonie Luna 3012 - miodowy;143;62.6;77.0;10;569
+794;Włóczka Symfonie Luna 3013 - szmaragdowo-zielony;143;62.6;77.0;10;569
+795;Włóczka Symfonie Luna 3014 - oliwka;143;62.6;77.0;10;569
+796;Włóczka Symfonie Luna 3015 - silver bangle;143;62.6;77.0;10;569
+797;Włóczka Symfonie Terra 2001 - jaśmin;144;45.53;56.0;10;569
+798;Włóczka Symfonie Terra 2002 - niebieskie miasto;144;45.53;56.0;10;569
+799;Włóczka Symfonie Terra 2007 - zachód słońca;144;45.53;56.0;10;569
+800;Włóczka Symfonie Terra 2008 - czerwona róża;144;45.53;56.0;10;569
+801;Włóczka Symfonie Terra 2009 - suszone papryczki;144;45.53;56.0;10;569
+802;Włóczka Symfonie Terra 2013 - szmaragd;144;45.53;56.0;10;569
+803;Włóczka Symfonie Terra 2014 - pawie oczko;144;45.53;56.0;10;569
+804;Włóczka Symfonie Terra 2015 - czarny pieprz;144;45.53;56.0;10;569
+805;Włóczka Symfonie Terra 2016 - zielona lemoniada;144;45.53;56.0;10;569
+806;Włóczka Symfonie Terra 2017 - kobalt;144;45.53;56.0;10;569
+807;Włóczka Symfonie Terra 2020 - limonkowy sorbet;144;45.53;56.0;10;569
+808;Włóczka Symfonie Terra 2023 - koralowy blush;144;45.53;56.0;10;569
+809;Włóczka Symfonie Terra 2025 - Scarlet;144;45.53;56.0;10;569
+810;Włóczka Symfonie Terra VR2001 - brzeg rzeki;144;45.53;56.0;10;569
+811;Włóczka Symfonie Terra VR2002 - światła nocy;144;45.53;56.0;10;569
+812;Włóczka Symfonie Viva 1001 - jaśmin;145;52.85;65.0;10;569
+813;Włóczka Symfonie Viva 1005 - popiół drzewny;145;52.85;65.0;10;569
+814;Włóczka Symfonie Viva 1031 - głęboki szmaragd;145;52.85;65.0;10;569
+815;Włóczka Symfonie Viva 1032 - liść szpinaku;145;52.85;65.0;10;569
+816;Włóczka Symfonie Viva 1044 - ciemny róż;145;52.85;65.0;10;569
+817;Włóczka Symfonie Viva 1045 - bugenwilla;145;52.85;65.0;10;569
+818;Włóczka Symfonie Viva 1047 - jaipur pink;145;52.85;65.0;10;569
+819;Włóczka Symfonie Viva 1054 - granatowy zmierzch;145;52.85;65.0;10;569
+820;Włóczka Symfonie Viva 1055 - lila;145;52.85;65.0;10;569
+821;Włóczka Symfonie Viva VR1001 - brzeg rzeki;145;52.85;65.0;10;569
+822;Włóczka Symfonie Viva VR1002 - światła nocy;145;52.85;65.0;10;569
+823;Włóczka Symfonie Viva VR1003 - pustkowie;145;52.85;65.0;10;569
+824;Włóczka Symfonie Viva VR1004 - pejzaż tropikalnych mórz;145;52.85;65.0;10;569
+825;Włóczka Symfonie Viva VR1007 - kawa wśród róż;145;52.85;65.0;10;569
+826;Włóczka Symfonie Viva VR1008 - letnie tchnienie;145;52.85;65.0;10;569

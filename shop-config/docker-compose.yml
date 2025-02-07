@@ -1,46 +1,67 @@
-version: '2'
+version: '3'
 services:
   mariadb:
-    image: mysql:5.7
+    platform: linux/x86_64
+    container_name: mariadb
+    image: mariadb:10.5
+    restart: unless-stopped
     environment:
-      - MYSQL_ROOT_PASSWORD=admin
-      - MYSQL_DATABASE=prestashop
-      - MYSQL_USER=prestashop
-      - MYSQL_PASSWORD=prestashop
+      MYSQL_DATABASE: prestashop_database
+      MYSQL_ROOT_PASSWORD: admin
     volumes:
-      - ./mysql:/var/lib/mysql
-    expose:
-      - 3306
-    networks:
-      - shop-network
-    restart: always
+      - ../shop-src/db_dump:/docker-entrypoint-initdb.d
+      - ../shop-src/dbdata:/var/lib/mysql
+
   prestashop:
-    image: prestashop/prestashop:1.7.8
-    ports:
-      - 8090:80
+    platform: linux/x86_64
+    container_name: prestashop
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
     depends_on:
       - mariadb
+      - memcached
+    ports:
+      - 443:443
+      # - 8080:80
     volumes:
-      - ./prestadata:/var/www/html
-      - ./prestadata/modules:/var/www/html/modules
-      - ./prestadata/themes:/var/www/html/themes
-      - ./prestadata/override:/var/www/html/override
+      - ../shop-src/src:/var/www/html
+      - ./website.cert:/etc/ssl/certs/website.cert
+      - ./website.cert:/usr/local/share/ca-certificates/website.cert
+      - ./notEncodedPk.key:/etc/ssl/private/notEncodedPk.key
     environment:
-      - PS_INSTALL_AUTO=0
-    networks:
-      - shop-network
-    restart: always
+      PS_DEV_MODE: 1
+      DB_SERVER: mariadb
+      DB_NAME: prestashop_database
+      DB_USER: root
+      DB_PASSWD: admin
+      PS_INSTALL_AUTO: 1
+      PS_DOMAIN: localhost:443
+      PS_LANGUAGE:	pl
+      PS_COUNTRY:	PL
+      ADMIN_MAIL: admin@presta.com
+      ADMIN_PASSWD: admin
+      PS_FOLDER_ADMIN: admin4577
+      PS_FOLDER_INSTALL: install4577
+      PS_DOMAIN_SSL: ${PS_DOMAIN_SSL:-localhost:443}
+      PS_ENABLE_SSL: 1
+      PS_SSL_ENABLED_EVERYWHERE: 1
+
   phpmyadmin:
-    image: phpmyadmin/phpmyadmin
-    environment:
-      - PMA_HOST=mariadb  # Сервис базы данных, который phpMyAdmin должен использовать
-      - MYSQL_ROOT_PASSWORD=admin  # Должен соответствовать паролю root, указанному для MySQL
+     image: phpmyadmin/phpmyadmin:latest
+     container_name: phpmyadmin
+     restart: unless-stopped
+     environment:
+       PMA_HOST: mariadb
+       MYSQL_ROOT_PASSWORD: your_root_password
+     ports:
+       - '8081:80'
+
+  memcached:
+    image: memcached:1.6.10
+    container_name: memcached
+    restart: unless-stopped
     ports:
-      - 8081:80  # phpMyAdmin будет доступен на порту 8081
-    depends_on:
-      - mariadb
-    networks:
-      - shop-network
-    restart: always
-networks:
-  shop-network:
+      - 11211:11211
+
